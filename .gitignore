@@ -1,0 +1,7 @@
+/server/node_modules
+/server/.pnp
+/server/.pnp.js
+
+/client/node_modules
+/client/.pnp
+/client/.pnp.js
